@@ -1,5 +1,13 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Medical Device Design and Development. Started my career as Embedded Developer, moved to System Engineering, technical Management of Medical devices, then moved to Medical device security and Conectivity. I also worked as People Manager and team lead in multi national companies.
+ 
+- 🌱 I’m currently learning DSA and soem design patterns
 
+- 👯 I’m looking to collaborate on meeting new people and discuss DSA and Design patterns using C or C++
+
+- 📫 How to reach me: ... reach me at dhiry2k@gmail.com or tweet me at @dhiry2k
+- 😄 Pronouns: ... He / Him
+- ⚡ Fun fact: ... none :D
 <!--
 **dheerajkumar125/dheerajkumar125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
